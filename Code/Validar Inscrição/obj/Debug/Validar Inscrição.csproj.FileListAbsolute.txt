@@ -1,0 +1,12 @@
+E:\C#_Samples\Ricardo\Valida IE2\Validar Inscrição\Validar Inscrição\bin\Debug\Validar Inscrição.exe.config
+E:\C#_Samples\Ricardo\Valida IE2\Validar Inscrição\Validar Inscrição\bin\Debug\Validar Inscrição.exe
+E:\C#_Samples\Ricardo\Valida IE2\Validar Inscrição\Validar Inscrição\bin\Debug\Validar Inscrição.pdb
+E:\C#_Samples\Ricardo\Valida IE2\Validar Inscrição\Validar Inscrição\obj\Debug\Validar Inscrição.csprojResolveAssemblyReference.cache
+E:\C#_Samples\Ricardo\Valida IE2\Validar Inscrição\Validar Inscrição\obj\Debug\Validar Inscrição.exe
+E:\C#_Samples\Ricardo\Valida IE2\Validar Inscrição\Validar Inscrição\obj\Debug\Validar Inscrição.pdb
+D:\0001Documents\Projects Visual Studio\Console\Validar Inscrição\Validar Inscrição\bin\Debug\Validar Inscrição.exe.config
+D:\0001Documents\Projects Visual Studio\Console\Validar Inscrição\Validar Inscrição\bin\Debug\Validar Inscrição.exe
+D:\0001Documents\Projects Visual Studio\Console\Validar Inscrição\Validar Inscrição\bin\Debug\Validar Inscrição.pdb
+D:\0001Documents\Projects Visual Studio\Console\Validar Inscrição\Validar Inscrição\obj\Debug\Validar Inscrição.csprojResolveAssemblyReference.cache
+D:\0001Documents\Projects Visual Studio\Console\Validar Inscrição\Validar Inscrição\obj\Debug\Validar Inscrição.exe
+D:\0001Documents\Projects Visual Studio\Console\Validar Inscrição\Validar Inscrição\obj\Debug\Validar Inscrição.pdb
